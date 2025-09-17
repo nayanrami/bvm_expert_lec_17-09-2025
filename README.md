@@ -1,9 +1,3 @@
-Absolutely! Below is a **comprehensive, beautifully formatted README.md file** tailored for **BVM Engineering Students** attending the **Expert Lecture on Web Services with PHP** by the **Microsoft Learn Student Club (MLSC), BVM**, in association with the **IT Department**.
-
-This README serves as a **pre-workshop guide, learning companion, and post-workshop reference** — designed with clear UI sections, emojis, code blocks, and actionable steps.
-
----
-
 # 🌐 **Hands-on Workshop: Web Services with PHP**  
 ### 🎓 *Hosted by Microsoft Learn Student Club (MLSC), BVM*  
 ### 🤝 *In Association with IT Department, BVM Engineering College*  
@@ -244,20 +238,6 @@ Bring your laptop, curiosity, and energy. Let’s dive into the world of Web Ser
 **Last Updated**: September 2025  
 **Contact**: mlsc.bvm@gmail.com | @mlsc_bvm on socials
 
----
 
-## 🖨️ **Print-Friendly Tip**
-
-Want to print this? Use [Markdown to PDF Converter](https://www.markdowntopdf.com/) or VS Code + “Print to PDF” for a clean handout!
-
----
-
-This README is designed to be **visually clean, mobile-friendly, and packed with actionable content**. You can directly paste this into a `README.md` file in your workshop GitHub repo, or convert to PDF for printing/email distribution.
-
-Let me know if you want:
-- A **PDF version** of this README
-- **Printable handout (2-page summary)**
-- **Email announcement template**
-- **Discord announcement bot script**
 
 Happy learning and building! 🚀👩‍💻👨‍💻
